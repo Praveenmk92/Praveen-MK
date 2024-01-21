@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo7vNv75ocuJLRp1PxQbjhptgqUUT0LrunUg&usqp=CAU)
+[![MasterHead]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo7vNv75ocuJLRp1PxQbjhptgqUUT0LrunUg&usqp=CAU](https://www.rp.edu.sg/images/default-source/soi-images/lifelong-learning/devops-banner.png))
 <h1 align="center">Hi 👋, I'm M K Praveen</h1>
 <h3 align="center">A DevOps Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src=[https://miro.medium.com/v2/resize:fit:1100/format:webp/1*DluPjzT_eTUFdzHCI7JBZA.gif](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*DluPjzT_eTUFdzHCI7JBZA.gif)>
