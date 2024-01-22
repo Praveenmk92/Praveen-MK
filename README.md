@@ -8,7 +8,7 @@
 - 📫 How to reach me **praveenmk92@gmail.com**
 - ⚡ Fun fact **I am Funny**
 - 💬 Ask me about **Cloud Computing, Azure/AWS**
-- 🌱 I’m currently learning **DevOps**
+- 👨‍💻🌱 I’m currently learning **DevOps**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
